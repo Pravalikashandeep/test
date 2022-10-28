@@ -13,7 +13,7 @@ public class FindVowelsPresented {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String ch2 = "mmmm";
+		String ch2 = "mmame ";
 		if (isvowels(ch2)) {
 			System.out.println("vowel is presented");
 		} else {

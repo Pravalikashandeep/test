@@ -17,7 +17,7 @@ public class Equals {
 		
 		else if (name.equals("NTR")) {
 			
-			System.out.println("the given name iS"+name);
+			System.out.println("the given name is"+name);
 		}
 		else {
 			

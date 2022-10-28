@@ -9,8 +9,7 @@ public class VowelsPresentedOrNotInGivenWord {
 }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 char ch1 = 't';
-		 if (isvowelspresented('t')) {
+		 if (isvowelspresented('i')) {
 			 System.out.println("vowel presented");
 		 }
 		 else {
