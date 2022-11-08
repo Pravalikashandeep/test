@@ -1,4 +1,4 @@
-package com.Stringtypes;
+ package com.Stringtypes;
 
 import com.methods.CharArrayStringType;
 

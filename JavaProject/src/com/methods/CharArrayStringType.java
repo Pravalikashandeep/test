@@ -12,7 +12,7 @@ public class CharArrayStringType {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String reversedString = reverseName("pravalika");
+		String reversedString = reverseName("pravalika is a testor");
 		System.out.println(reversedString);
 
 	}

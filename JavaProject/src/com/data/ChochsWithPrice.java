@@ -15,7 +15,7 @@ public class ChochsWithPrice {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(getChochsCount(100,3,4));
+		System.out.println(getChochsCount(100,7,4));
 
 	}
 
